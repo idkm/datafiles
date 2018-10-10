@@ -1,0 +1,5 @@
+﻿FORMAT==100
+SKIPCHECK;
+FEEDSTRINGS;
+['3' ] = N:['6' ] +  ['799' ] ;
+['8' ] = N: DB('Product', 'Cooking Gear', 'Budget version 1', 'Unit cost');
